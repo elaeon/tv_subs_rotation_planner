@@ -29,7 +29,7 @@ The TV Subscription Rotation Planner creates a month-by-month rotation schedule 
 
 ## Input Format
 
-Check th file titles.txt in this repo.
+Favorite TV Shows to watch are in titles.txt.
 
 ## Output
 
